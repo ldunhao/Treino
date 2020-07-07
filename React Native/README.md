@@ -1,5 +1,5 @@
 # React Native
- Repositório onde posto alguns treinos em React Native
+ Repositório onde coloco alguns treinos em React Native
  
 # Conteúdo
  MailComposer \
